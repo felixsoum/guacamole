@@ -1,3 +1,5 @@
 avocado
 onion
 chili
+tomato
+garlic
