@@ -3,5 +3,6 @@ onion
 chili
 tomato
 mayo
+ketchup
 garlic
 potato
