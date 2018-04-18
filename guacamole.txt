@@ -2,5 +2,6 @@ cheese
 onion
 chili
 tomato
+mayo
 garlic
 potato
